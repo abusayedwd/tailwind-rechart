@@ -1,0 +1,36 @@
+[
+        {
+                "id": 1,
+                "name": "Basic",
+                "price": 20.99,
+                "features": [
+                        "Cardio equipment",
+                        "Weight training equipment",
+                        "Group fitness classes"
+                ]
+        },
+        {
+                "id": 2,
+                "name": "Premium",
+                "price": 35.99,
+                "features": [
+                        "Cardio equipment",
+                        "Weight training equipment",
+                        "Group fitness classes",
+                        "Swimming pool",
+                        "Sauna and steam room"
+                ]
+        },
+        {
+                "id": 3,
+                "name": "Platinum",
+                "price": 50.99,
+                "features": [
+                        "Cardio equipment",
+                        "Weight training equipment",
+                        "Group fitness classes",
+                        "Swimming pool"
+                         
+                ]
+        }
+]
